@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1715835096 source:c:\users\asus\desktop\data structure project in c\foodie manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
