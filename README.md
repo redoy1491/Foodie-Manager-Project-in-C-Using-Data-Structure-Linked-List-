@@ -1,4 +1,4 @@
-# Foodie-Manager-Project-in-C-Using-Data-Structure-Linked-List-File-Handling-User-Friendly
+# Foodie-Manager-Project-in-C-Using-Data-Structure-Linked-List-File-Handling-User-Friendly-Easy-UI- Design
 
 #Foodie Manager Project in C Using Data Structure(Linked List)
 
