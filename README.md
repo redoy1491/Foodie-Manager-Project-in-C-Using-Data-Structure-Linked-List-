@@ -2,7 +2,9 @@
 
 #Foodie Manager Project in C Using Data Structure(Linked List)
 
-#Restaurants Management System/Cafeteria Management System
+#Restaurants Management System
+
+#Cafeteria Management System
 
 Project Team--Tech Wizards(Redoy)
 
